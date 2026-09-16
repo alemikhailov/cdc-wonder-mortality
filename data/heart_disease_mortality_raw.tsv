@@ -1,0 +1,391 @@
+"Notes"	"Census Region"	"Census Region Code"	"Single Race 6"	"Single Race 6 Code"	"Sex"	"Sex Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval
+	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	"2020"	"2020"	60	196136	30.6	23.3	39.4
+	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	"2021"	"2021"	67	204578	32.8	25.4	41.6
+	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	"2022"	"2022"	65	208838	31.1	24.0	39.7
+	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	"2023"	"2023"	49	216591	22.6	16.7	29.9
+	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	"2024 "	"2024"	65	243714	26.7	20.6	34.0
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"			306	1069857	28.6	25.4	31.8
+	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	"2020"	"2020"	89	201143	44.2	35.5	54.5
+	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	"2021"	"2021"	81	211517	38.3	30.4	47.6
+	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	"2022"	"2022"	96	216225	44.4	36.0	54.2
+	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	"2023"	"2023"	82	223279	36.7	29.2	45.6
+	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	"2024 "	"2024"	96	252293	38.1	30.8	46.5
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"			444	1104457	40.2	36.5	43.9
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"					750	2174314	34.5	32.0	37.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian"	"A"	"Female"	"F"	"2020"	"2020"	1593	2069150	77.0	73.2	80.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian"	"A"	"Female"	"F"	"2021"	"2021"	1419	2136178	66.4	63.0	69.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian"	"A"	"Female"	"F"	"2022"	"2022"	1556	2188399	71.1	67.6	74.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian"	"A"	"Female"	"F"	"2023"	"2023"	1479	2220190	66.6	63.2	70.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian"	"A"	"Female"	"F"	"2024 "	"2024"	1515	2362877	64.1	60.9	67.3
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"Asian"	"A"	"Female"	"F"			7562	10976794	68.9	67.3	70.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian"	"A"	"Male"	"M"	"2020"	"2020"	2041	1918631	106.4	101.8	111.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian"	"A"	"Male"	"M"	"2021"	"2021"	1723	2001737	86.1	82.0	90.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian"	"A"	"Male"	"M"	"2022"	"2022"	1907	2058264	92.7	88.5	96.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian"	"A"	"Male"	"M"	"2023"	"2023"	1850	2071784	89.3	85.2	93.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian"	"A"	"Male"	"M"	"2024 "	"2024"	1939	2201058	88.1	84.2	92.0
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"Asian"	"A"	"Male"	"M"			9460	10251474	92.3	90.4	94.1
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"Asian"	"A"					17022	21228268	80.2	79.0	81.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"Female"	"F"	"2020"	"2020"	8160	3953130	206.4	201.9	210.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"Female"	"F"	"2021"	"2021"	6897	4047889	170.4	166.4	174.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"Female"	"F"	"2022"	"2022"	6966	4065267	171.4	167.3	175.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"Female"	"F"	"2023"	"2023"	6513	4075043	159.8	155.9	163.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"Female"	"F"	"2024 "	"2024"	6758	4176794	161.8	157.9	165.7
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"Female"	"F"			35294	20318123	173.7	171.9	175.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"Male"	"M"	"2020"	"2020"	8591	3591115	239.2	234.2	244.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"Male"	"M"	"2021"	"2021"	7537	3723571	202.4	197.8	207.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"Male"	"M"	"2022"	"2022"	7582	3730830	203.2	198.7	207.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"Male"	"M"	"2023"	"2023"	7367	3733273	197.3	192.8	201.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"Male"	"M"	"2024 "	"2024"	7511	3840490	195.6	191.2	200.0
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"Male"	"M"			38588	18619279	207.2	205.2	209.3
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"					73882	38937402	189.7	188.4	191.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	"2020"	"2020"	12	32893	36.5	18.9	63.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	"2022"	"2022"	10	34472	29.0	13.9	53.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	"2024 "	"2024"	13	38045	34.2	18.2	58.4
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"			48	175495	27.4	20.2	36.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	"2020"	"2020"	21	32538	64.5	40.0	98.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	"2021"	"2021"	11	33812	32.5	16.2	58.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	"2022"	"2022"	15	34412	43.6	24.4	71.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	"2023"	"2023"	10	35701	28.0	13.4	51.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	"2024 "	"2024"	21	37636	55.8	34.5	85.3
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"			78	174099	44.8	35.4	55.9
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"					126	349594	36.0	29.7	42.3
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"Female"	"F"	"2020"	"2020"	51803	21652302	239.2	237.2	241.3
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"Female"	"F"	"2021"	"2021"	49041	21938876	223.5	221.6	225.5
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"Female"	"F"	"2022"	"2022"	50149	21762325	230.4	228.4	232.5
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"Female"	"F"	"2023"	"2023"	47463	21710141	218.6	216.7	220.6
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"Female"	"F"	"2024 "	"2024"	46453	21821621	212.9	210.9	214.8
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"Female"	"F"			244909	108885265	224.9	224.0	225.8
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"Male"	"M"	"2020"	"2020"	57188	20823003	274.6	272.4	276.9
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"Male"	"M"	"2021"	"2021"	55235	21385700	258.3	256.1	260.4
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"Male"	"M"	"2022"	"2022"	55715	21261284	262.0	259.9	264.2
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"Male"	"M"	"2023"	"2023"	53598	21147721	253.4	251.3	255.6
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"Male"	"M"	"2024 "	"2024"	52895	21271400	248.7	246.5	250.8
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"Male"	"M"			274631	105889108	259.4	258.4	260.3
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"					519540	214774373	241.9	241.2	242.6
+	"Census Region 1: Northeast"	"CENS-R1"	"More than one race"	"M"	"Female"	"F"	"2020"	"2020"	114	702739	16.2	13.2	19.2
+	"Census Region 1: Northeast"	"CENS-R1"	"More than one race"	"M"	"Female"	"F"	"2021"	"2021"	108	732074	14.8	12.0	17.5
+	"Census Region 1: Northeast"	"CENS-R1"	"More than one race"	"M"	"Female"	"F"	"2022"	"2022"	101	750273	13.5	10.8	16.1
+	"Census Region 1: Northeast"	"CENS-R1"	"More than one race"	"M"	"Female"	"F"	"2023"	"2023"	113	767241	14.7	12.0	17.4
+	"Census Region 1: Northeast"	"CENS-R1"	"More than one race"	"M"	"Female"	"F"	"2024 "	"2024"	116	803858	14.4	11.8	17.1
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"More than one race"	"M"	"Female"	"F"			552	3756185	14.7	13.5	15.9
+	"Census Region 1: Northeast"	"CENS-R1"	"More than one race"	"M"	"Male"	"M"	"2020"	"2020"	134	677089	19.8	16.4	23.1
+	"Census Region 1: Northeast"	"CENS-R1"	"More than one race"	"M"	"Male"	"M"	"2021"	"2021"	118	709832	16.6	13.6	19.6
+	"Census Region 1: Northeast"	"CENS-R1"	"More than one race"	"M"	"Male"	"M"	"2022"	"2022"	131	729817	17.9	14.9	21.0
+	"Census Region 1: Northeast"	"CENS-R1"	"More than one race"	"M"	"Male"	"M"	"2023"	"2023"	141	746542	18.9	15.8	22.0
+	"Census Region 1: Northeast"	"CENS-R1"	"More than one race"	"M"	"Male"	"M"	"2024 "	"2024"	161	783149	20.6	17.4	23.7
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"More than one race"	"M"	"Male"	"M"			685	3646429	18.8	17.4	20.2
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"More than one race"	"M"					1237	7402614	16.7	15.8	17.6
+"Total"	"Census Region 1: Northeast"	"CENS-R1"							612557	284866565	215.0	214.5	215.6
+	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	"2020"	"2020"	253	301031	84.0	73.7	94.4
+	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	"2021"	"2021"	256	306706	83.5	73.2	93.7
+	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	"2022"	"2022"	283	303663	93.2	82.3	104.1
+	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	"2023"	"2023"	250	312491	80.0	70.1	89.9
+	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	"2024 "	"2024"	264	325469	81.1	71.3	90.9
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"			1306	1549360	84.3	79.7	88.9
+	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	"2020"	"2020"	384	304912	125.9	113.3	138.5
+	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	"2021"	"2021"	378	312603	120.9	108.7	133.1
+	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	"2022"	"2022"	385	310956	123.8	111.4	136.2
+	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	"2023"	"2023"	364	318327	114.3	102.6	126.1
+	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	"2024 "	"2024"	411	333694	123.2	111.3	135.1
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"			1922	1580492	121.6	116.2	127.0
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"					3228	3129852	103.1	99.6	106.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Asian"	"A"	"Female"	"F"	"2020"	"2020"	633	1262467	50.1	46.2	54.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Asian"	"A"	"Female"	"F"	"2021"	"2021"	651	1279070	50.9	47.0	54.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Asian"	"A"	"Female"	"F"	"2022"	"2022"	634	1307311	48.5	44.7	52.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Asian"	"A"	"Female"	"F"	"2023"	"2023"	621	1328693	46.7	43.1	50.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Asian"	"A"	"Female"	"F"	"2024 "	"2024"	608	1450682	41.9	38.6	45.2
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"Asian"	"A"	"Female"	"F"			3147	6628223	47.5	45.8	49.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Asian"	"A"	"Male"	"M"	"2020"	"2020"	835	1203788	69.4	64.7	74.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Asian"	"A"	"Male"	"M"	"2021"	"2021"	758	1229759	61.6	57.3	66.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Asian"	"A"	"Male"	"M"	"2022"	"2022"	859	1264027	68.0	63.4	72.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Asian"	"A"	"Male"	"M"	"2023"	"2023"	858	1275913	67.2	62.7	71.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Asian"	"A"	"Male"	"M"	"2024 "	"2024"	854	1393785	61.3	57.2	65.4
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"Asian"	"A"	"Male"	"M"			4164	6367272	65.4	63.4	67.4
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"Asian"	"A"					7311	12995495	56.3	55.0	57.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"Female"	"F"	"2020"	"2020"	8071	3871457	208.5	203.9	213.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"Female"	"F"	"2021"	"2021"	7738	3901979	198.3	193.9	202.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"Female"	"F"	"2022"	"2022"	7570	3907342	193.7	189.4	198.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"Female"	"F"	"2023"	"2023"	7036	3930592	179.0	174.8	183.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"Female"	"F"	"2024 "	"2024"	7409	3998949	185.3	181.1	189.5
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"Female"	"F"			37824	19610319	192.9	190.9	194.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"Male"	"M"	"2020"	"2020"	9653	3594541	268.5	263.2	273.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"Male"	"M"	"2021"	"2021"	9423	3662468	257.3	252.1	262.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"Male"	"M"	"2022"	"2022"	9246	3666702	252.2	247.0	257.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"Male"	"M"	"2023"	"2023"	8865	3675882	241.2	236.1	246.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"Male"	"M"	"2024 "	"2024"	8750	3740997	233.9	229.0	238.8
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"Male"	"M"			45937	18340590	250.5	248.2	252.8
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"					83761	37950909	220.7	219.2	222.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	"2020"	"2020"	27	27779	97.2	64.1	141.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	"2021"	"2021"	17	29075	58.5	34.1	93.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	"2022"	"2022"	29	30938	93.7	62.8	134.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	"2023"	"2023"	27	33364	80.9	53.3	117.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	"2024 "	"2024"	28	36186	77.4	51.4	111.8
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"			128	157342	81.4	67.3	95.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	"2020"	"2020"	23	29915	76.9	48.7	115.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	"2021"	"2021"	25	31226	80.1	51.8	118.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	"2022"	"2022"	24	33044	72.6	46.5	108.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	"2023"	"2023"	36	35220	102.2	71.6	141.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	"2024 "	"2024"	30	38246	78.4	52.9	112.0
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"			138	167651	82.3	68.6	96.0
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"					266	324993	81.8	72.0	91.7
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"Female"	"F"	"2020"	"2020"	63052	28289181	222.9	221.1	224.6
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"Female"	"F"	"2021"	"2021"	62000	28261644	219.4	217.7	221.1
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"Female"	"F"	"2022"	"2022"	64046	28125618	227.7	226.0	229.5
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"Female"	"F"	"2023"	"2023"	61428	28171260	218.1	216.3	219.8
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"Female"	"F"	"2024 "	"2024"	61879	28272968	218.9	217.1	220.6
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"Female"	"F"			312405	141120671	221.4	220.6	222.2
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"Male"	"M"	"2020"	"2020"	74716	27780551	269.0	267.0	270.9
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"Male"	"M"	"2021"	"2021"	75110	28119089	267.1	265.2	269.0
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"Male"	"M"	"2022"	"2022"	75805	28081594	269.9	268.0	271.9
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"Male"	"M"	"2023"	"2023"	73307	28025901	261.6	259.7	263.5
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"Male"	"M"	"2024 "	"2024"	73169	28136383	260.1	258.2	261.9
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"Male"	"M"			372107	140143518	265.5	264.7	266.4
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"					684512	281264189	243.4	242.8	243.9
+	"Census Region 2: Midwest"	"CENS-R2"	"More than one race"	"M"	"Female"	"F"	"2020"	"2020"	140	829535	16.9	14.1	19.7
+	"Census Region 2: Midwest"	"CENS-R2"	"More than one race"	"M"	"Female"	"F"	"2021"	"2021"	172	856571	20.1	17.1	23.1
+	"Census Region 2: Midwest"	"CENS-R2"	"More than one race"	"M"	"Female"	"F"	"2022"	"2022"	212	878880	24.1	20.9	27.4
+	"Census Region 2: Midwest"	"CENS-R2"	"More than one race"	"M"	"Female"	"F"	"2023"	"2023"	202	901737	22.4	19.3	25.5
+	"Census Region 2: Midwest"	"CENS-R2"	"More than one race"	"M"	"Female"	"F"	"2024 "	"2024"	207	934012	22.2	19.1	25.2
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"More than one race"	"M"	"Female"	"F"			933	4400735	21.2	19.8	22.6
+	"Census Region 2: Midwest"	"CENS-R2"	"More than one race"	"M"	"Male"	"M"	"2020"	"2020"	217	821587	26.4	22.9	29.9
+	"Census Region 2: Midwest"	"CENS-R2"	"More than one race"	"M"	"Male"	"M"	"2021"	"2021"	218	851254	25.6	22.2	29.0
+	"Census Region 2: Midwest"	"CENS-R2"	"More than one race"	"M"	"Male"	"M"	"2022"	"2022"	244	877520	27.8	24.3	31.3
+	"Census Region 2: Midwest"	"CENS-R2"	"More than one race"	"M"	"Male"	"M"	"2023"	"2023"	246	899903	27.3	23.9	30.8
+	"Census Region 2: Midwest"	"CENS-R2"	"More than one race"	"M"	"Male"	"M"	"2024 "	"2024"	231	935213	24.7	21.5	27.9
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"More than one race"	"M"	"Male"	"M"			1156	4385477	26.4	24.8	27.9
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"More than one race"	"M"					2089	8786212	23.8	22.8	24.8
+"Total"	"Census Region 2: Midwest"	"CENS-R2"							781167	344451650	226.8	226.3	227.3
+	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	"2020"	"2020"	503	657589	76.5	69.8	83.2
+	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	"2021"	"2021"	572	668021	85.6	78.6	92.6
+	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	"2022"	"2022"	570	674219	84.5	77.6	91.5
+	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	"2023"	"2023"	556	700853	79.3	72.7	85.9
+	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	"2024 "	"2024"	602	746751	80.6	74.2	87.1
+"Total"	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"			2803	3447433	81.3	78.3	84.3
+	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	"2020"	"2020"	714	673027	106.1	98.3	113.9
+	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	"2021"	"2021"	825	687630	120.0	111.8	128.2
+	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	"2022"	"2022"	779	698092	111.6	103.8	119.4
+	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	"2023"	"2023"	776	724612	107.1	99.6	114.6
+	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	"2024 "	"2024"	762	780267	97.7	90.7	104.6
+"Total"	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"			3856	3563628	108.2	104.8	111.6
+"Total"	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"					6659	7011061	95.0	92.7	97.3
+	"Census Region 3: South"	"CENS-R3"	"Asian"	"A"	"Female"	"F"	"2020"	"2020"	1170	2522653	46.4	43.7	49.0
+	"Census Region 3: South"	"CENS-R3"	"Asian"	"A"	"Female"	"F"	"2021"	"2021"	1283	2557627	50.2	47.4	52.9
+	"Census Region 3: South"	"CENS-R3"	"Asian"	"A"	"Female"	"F"	"2022"	"2022"	1461	2671205	54.7	51.9	57.5
+	"Census Region 3: South"	"CENS-R3"	"Asian"	"A"	"Female"	"F"	"2023"	"2023"	1451	2778062	52.2	49.5	54.9
+	"Census Region 3: South"	"CENS-R3"	"Asian"	"A"	"Female"	"F"	"2024 "	"2024"	1523	3014633	50.5	48.0	53.1
+"Total"	"Census Region 3: South"	"CENS-R3"	"Asian"	"A"	"Female"	"F"			6888	13544180	50.9	49.7	52.1
+	"Census Region 3: South"	"CENS-R3"	"Asian"	"A"	"Male"	"M"	"2020"	"2020"	1735	2322776	74.7	71.2	78.2
+	"Census Region 3: South"	"CENS-R3"	"Asian"	"A"	"Male"	"M"	"2021"	"2021"	1836	2381268	77.1	73.6	80.6
+	"Census Region 3: South"	"CENS-R3"	"Asian"	"A"	"Male"	"M"	"2022"	"2022"	1981	2506356	79.0	75.6	82.5
+	"Census Region 3: South"	"CENS-R3"	"Asian"	"A"	"Male"	"M"	"2023"	"2023"	1922	2595917	74.0	70.7	77.3
+	"Census Region 3: South"	"CENS-R3"	"Asian"	"A"	"Male"	"M"	"2024 "	"2024"	2058	2820660	73.0	69.8	76.1
+"Total"	"Census Region 3: South"	"CENS-R3"	"Asian"	"A"	"Male"	"M"			9532	12626977	75.5	74.0	77.0
+"Total"	"Census Region 3: South"	"CENS-R3"	"Asian"	"A"					16420	26171157	62.7	61.8	63.7
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"Female"	"F"	"2020"	"2020"	23809	13320455	178.7	176.5	181.0
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"Female"	"F"	"2021"	"2021"	23481	13363124	175.7	173.5	178.0
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"Female"	"F"	"2022"	"2022"	23084	13497014	171.0	168.8	173.2
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"Female"	"F"	"2023"	"2023"	22528	13670179	164.8	162.6	166.9
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"Female"	"F"	"2024 "	"2024"	22761	13901121	163.7	161.6	165.9
+"Total"	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"Female"	"F"			115663	67751893	170.7	169.7	171.7
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"Male"	"M"	"2020"	"2020"	27902	12024276	232.0	229.3	234.8
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"Male"	"M"	"2021"	"2021"	28605	12170219	235.0	232.3	237.8
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"Male"	"M"	"2022"	"2022"	27758	12312400	225.4	222.8	228.1
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"Male"	"M"	"2023"	"2023"	27298	12414196	219.9	217.3	222.5
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"Male"	"M"	"2024 "	"2024"	27393	12617157	217.1	214.5	219.7
+"Total"	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"Male"	"M"			138956	61538248	225.8	224.6	227.0
+"Total"	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"					254619	129290141	196.9	196.2	197.7
+	"Census Region 3: South"	"CENS-R3"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	"2020"	"2020"	72	83155	86.6	67.7	109.0
+	"Census Region 3: South"	"CENS-R3"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	"2021"	"2021"	60	85357	70.3	53.6	90.5
+	"Census Region 3: South"	"CENS-R3"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	"2022"	"2022"	74	89200	83.0	65.1	104.1
+	"Census Region 3: South"	"CENS-R3"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	"2023"	"2023"	57	93134	61.2	46.4	79.3
+	"Census Region 3: South"	"CENS-R3"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	"2024 "	"2024"	70	99298	70.5	55.0	89.1
+"Total"	"Census Region 3: South"	"CENS-R3"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"			333	450144	74.0	66.0	81.9
+	"Census Region 3: South"	"CENS-R3"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	"2020"	"2020"	77	87344	88.2	69.6	110.2
+	"Census Region 3: South"	"CENS-R3"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	"2021"	"2021"	79	89904	87.9	69.6	109.5
+	"Census Region 3: South"	"CENS-R3"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	"2022"	"2022"	76	93616	81.2	64.0	101.6
+	"Census Region 3: South"	"CENS-R3"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	"2023"	"2023"	94	97878	96.0	77.6	117.5
+	"Census Region 3: South"	"CENS-R3"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	"2024 "	"2024"	98	103984	94.2	76.5	114.9
+"Total"	"Census Region 3: South"	"CENS-R3"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"			424	472726	89.7	81.2	98.2
+"Total"	"Census Region 3: South"	"CENS-R3"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"					757	922870	82.0	76.2	87.9
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"Female"	"F"	"2020"	"2020"	96115	46491726	206.7	205.4	208.0
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"Female"	"F"	"2021"	"2021"	98347	46298592	212.4	211.1	213.7
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"Female"	"F"	"2022"	"2022"	99156	46647735	212.6	211.2	213.9
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"Female"	"F"	"2023"	"2023"	96923	47121614	205.7	204.4	207.0
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"Female"	"F"	"2024 "	"2024"	98541	47807194	206.1	204.8	207.4
+"Total"	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"Female"	"F"			489082	234366861	208.7	208.1	209.3
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"Male"	"M"	"2020"	"2020"	122033	45427270	268.6	267.1	270.1
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"Male"	"M"	"2021"	"2021"	125466	45766994	274.1	272.6	275.7
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"Male"	"M"	"2022"	"2022"	125650	46225392	271.8	270.3	273.3
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"Male"	"M"	"2023"	"2023"	122781	46513832	264.0	262.5	265.4
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"Male"	"M"	"2024 "	"2024"	124586	47201053	263.9	262.5	265.4
+"Total"	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"Male"	"M"			620516	231134541	268.5	267.8	269.1
+"Total"	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"					1109598	465501402	238.4	237.9	238.8
+	"Census Region 3: South"	"CENS-R3"	"More than one race"	"M"	"Female"	"F"	"2020"	"2020"	322	1551006	20.8	18.5	23.0
+	"Census Region 3: South"	"CENS-R3"	"More than one race"	"M"	"Female"	"F"	"2021"	"2021"	318	1601593	19.9	17.7	22.0
+	"Census Region 3: South"	"CENS-R3"	"More than one race"	"M"	"Female"	"F"	"2022"	"2022"	321	1671480	19.2	17.1	21.3
+	"Census Region 3: South"	"CENS-R3"	"More than one race"	"M"	"Female"	"F"	"2023"	"2023"	324	1730362	18.7	16.7	20.8
+	"Census Region 3: South"	"CENS-R3"	"More than one race"	"M"	"Female"	"F"	"2024 "	"2024"	348	1807584	19.3	17.2	21.3
+"Total"	"Census Region 3: South"	"CENS-R3"	"More than one race"	"M"	"Female"	"F"			1633	8362025	19.5	18.6	20.5
+	"Census Region 3: South"	"CENS-R3"	"More than one race"	"M"	"Male"	"M"	"2020"	"2020"	406	1501477	27.0	24.4	29.7
+	"Census Region 3: South"	"CENS-R3"	"More than one race"	"M"	"Male"	"M"	"2021"	"2021"	419	1555000	26.9	24.4	29.5
+	"Census Region 3: South"	"CENS-R3"	"More than one race"	"M"	"Male"	"M"	"2022"	"2022"	427	1629483	26.2	23.7	28.7
+	"Census Region 3: South"	"CENS-R3"	"More than one race"	"M"	"Male"	"M"	"2023"	"2023"	415	1684651	24.6	22.3	27.0
+	"Census Region 3: South"	"CENS-R3"	"More than one race"	"M"	"Male"	"M"	"2024 "	"2024"	451	1765991	25.5	23.2	27.9
+"Total"	"Census Region 3: South"	"CENS-R3"	"More than one race"	"M"	"Male"	"M"			2118	8136602	26.0	24.9	27.1
+"Total"	"Census Region 3: South"	"CENS-R3"	"More than one race"	"M"					3751	16498627	22.7	22.0	23.5
+"Total"	"Census Region 3: South"	"CENS-R3"							1391804	645395258	215.7	215.3	216.0
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	"2020"	"2020"	717	978060	73.3	67.9	78.7
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	"2021"	"2021"	741	983113	75.4	69.9	80.8
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	"2022"	"2022"	776	978106	79.3	73.8	84.9
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	"2023"	"2023"	737	991148	74.4	69.0	79.7
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	"2024 "	"2024"	713	1024037	69.6	64.5	74.7
+"Total"	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"			3684	4954464	74.4	72.0	76.8
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	"2020"	"2020"	1009	981092	102.8	96.5	109.2
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	"2021"	"2021"	1099	993372	110.6	104.1	117.2
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	"2022"	"2022"	1044	992135	105.2	98.8	111.6
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	"2023"	"2023"	1050	999116	105.1	98.7	111.4
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	"2024 "	"2024"	1041	1037073	100.4	94.3	106.5
+"Total"	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"			5243	5002788	104.8	102.0	107.6
+"Total"	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"					8927	9957252	89.7	87.8	91.5
+	"Census Region 4: West"	"CENS-R4"	"Asian"	"A"	"Female"	"F"	"2020"	"2020"	4423	4587303	96.4	93.6	99.3
+	"Census Region 4: West"	"CENS-R4"	"Asian"	"A"	"Female"	"F"	"2021"	"2021"	4356	4589232	94.9	92.1	97.7
+	"Census Region 4: West"	"CENS-R4"	"Asian"	"A"	"Female"	"F"	"2022"	"2022"	4559	4677588	97.5	94.6	100.3
+	"Census Region 4: West"	"CENS-R4"	"Asian"	"A"	"Female"	"F"	"2023"	"2023"	4392	4770899	92.1	89.3	94.8
+	"Census Region 4: West"	"CENS-R4"	"Asian"	"A"	"Female"	"F"	"2024 "	"2024"	4281	5014600	85.4	82.8	87.9
+"Total"	"Census Region 4: West"	"CENS-R4"	"Asian"	"A"	"Female"	"F"			22011	23639622	93.1	91.9	94.3
+	"Census Region 4: West"	"CENS-R4"	"Asian"	"A"	"Male"	"M"	"2020"	"2020"	5064	4125510	122.7	119.4	126.1
+	"Census Region 4: West"	"CENS-R4"	"Asian"	"A"	"Male"	"M"	"2021"	"2021"	5186	4175612	124.2	120.8	127.6
+	"Census Region 4: West"	"CENS-R4"	"Asian"	"A"	"Male"	"M"	"2022"	"2022"	5430	4280791	126.8	123.5	130.2
+	"Census Region 4: West"	"CENS-R4"	"Asian"	"A"	"Male"	"M"	"2023"	"2023"	5103	4345456	117.4	114.2	120.7
+	"Census Region 4: West"	"CENS-R4"	"Asian"	"A"	"Male"	"M"	"2024 "	"2024"	5262	4566713	115.2	112.1	118.3
+"Total"	"Census Region 4: West"	"CENS-R4"	"Asian"	"A"	"Male"	"M"			26045	21494082	121.2	119.7	122.6
+"Total"	"Census Region 4: West"	"CENS-R4"	"Asian"	"A"					48056	45133704	106.5	105.5	107.4
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"Female"	"F"	"2020"	"2020"	3410	2050133	166.3	160.7	171.9
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"Female"	"F"	"2021"	"2021"	3362	2045250	164.4	158.8	169.9
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"Female"	"F"	"2022"	"2022"	3451	2057265	167.7	162.2	173.3
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"Female"	"F"	"2023"	"2023"	3339	2080412	160.5	155.1	165.9
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"Female"	"F"	"2024 "	"2024"	3364	2115790	159.0	153.6	164.4
+"Total"	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"Female"	"F"			16926	10348850	163.6	161.1	166.0
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"Male"	"M"	"2020"	"2020"	4722	2126005	222.1	215.8	228.4
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"Male"	"M"	"2021"	"2021"	4639	2146357	216.1	209.9	222.4
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"Male"	"M"	"2022"	"2022"	4726	2162923	218.5	212.3	224.7
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"Male"	"M"	"2023"	"2023"	4467	2177856	205.1	199.1	211.1
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"Male"	"M"	"2024 "	"2024"	4516	2217548	203.6	197.7	209.6
+"Total"	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"Male"	"M"			23070	10830689	213.0	210.3	215.8
+"Total"	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"					39996	21179539	188.8	187.0	190.7
+	"Census Region 4: West"	"CENS-R4"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	"2020"	"2020"	292	271698	107.5	95.1	119.8
+	"Census Region 4: West"	"CENS-R4"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	"2021"	"2021"	316	275465	114.7	102.1	127.4
+	"Census Region 4: West"	"CENS-R4"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	"2022"	"2022"	343	277189	123.7	110.6	136.8
+	"Census Region 4: West"	"CENS-R4"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	"2023"	"2023"	308	281041	109.6	97.4	121.8
+	"Census Region 4: West"	"CENS-R4"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	"2024 "	"2024"	338	289706	116.7	104.2	129.1
+"Total"	"Census Region 4: West"	"CENS-R4"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"			1597	1395099	114.5	108.9	120.1
+	"Census Region 4: West"	"CENS-R4"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	"2020"	"2020"	473	278371	169.9	154.6	185.2
+	"Census Region 4: West"	"CENS-R4"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	"2021"	"2021"	537	284130	189.0	173.0	205.0
+	"Census Region 4: West"	"CENS-R4"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	"2022"	"2022"	498	285937	174.2	158.9	189.5
+	"Census Region 4: West"	"CENS-R4"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	"2023"	"2023"	494	287466	171.8	156.7	187.0
+	"Census Region 4: West"	"CENS-R4"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	"2024 "	"2024"	503	296611	169.6	154.8	184.4
+"Total"	"Census Region 4: West"	"CENS-R4"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"			2505	1432515	174.9	168.0	181.7
+"Total"	"Census Region 4: West"	"CENS-R4"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"					4102	2827614	145.1	140.6	149.5
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"Female"	"F"	"2020"	"2020"	48675	29820330	163.2	161.8	164.7
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"Female"	"F"	"2021"	"2021"	48716	29575246	164.7	163.3	166.2
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"Female"	"F"	"2022"	"2022"	49940	29442287	169.6	168.1	171.1
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"Female"	"F"	"2023"	"2023"	48352	29456399	164.1	162.7	165.6
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"Female"	"F"	"2024 "	"2024"	47898	29653069	161.5	160.1	163.0
+"Total"	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"Female"	"F"			243581	147947331	164.6	164.0	165.3
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"Male"	"M"	"2020"	"2020"	63640	30025361	212.0	210.3	213.6
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"Male"	"M"	"2021"	"2021"	64444	30115470	214.0	212.3	215.6
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"Male"	"M"	"2022"	"2022"	65252	30055939	217.1	215.4	218.8
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"Male"	"M"	"2023"	"2023"	63693	29918836	212.9	211.2	214.5
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"Male"	"M"	"2024 "	"2024"	62887	30117910	208.8	207.2	210.4
+"Total"	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"Male"	"M"			319916	150233516	212.9	212.2	213.7
+"Total"	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"					563497	298180847	189.0	188.5	189.5
+	"Census Region 4: West"	"CENS-R4"	"More than one race"	"M"	"Female"	"F"	"2020"	"2020"	760	1706013	44.5	41.4	47.7
+	"Census Region 4: West"	"CENS-R4"	"More than one race"	"M"	"Female"	"F"	"2021"	"2021"	736	1737669	42.4	39.3	45.4
+	"Census Region 4: West"	"CENS-R4"	"More than one race"	"M"	"Female"	"F"	"2022"	"2022"	758	1757390	43.1	40.1	46.2
+	"Census Region 4: West"	"CENS-R4"	"More than one race"	"M"	"Female"	"F"	"2023"	"2023"	816	1788038	45.6	42.5	48.8
+	"Census Region 4: West"	"CENS-R4"	"More than one race"	"M"	"Female"	"F"	"2024 "	"2024"	862	1834148	47.0	43.9	50.1
+"Total"	"Census Region 4: West"	"CENS-R4"	"More than one race"	"M"	"Female"	"F"			3932	8823258	44.6	43.2	46.0
+	"Census Region 4: West"	"CENS-R4"	"More than one race"	"M"	"Male"	"M"	"2020"	"2020"	1109	1704880	65.0	61.2	68.9
+	"Census Region 4: West"	"CENS-R4"	"More than one race"	"M"	"Male"	"M"	"2021"	"2021"	1134	1746218	64.9	61.2	68.7
+	"Census Region 4: West"	"CENS-R4"	"More than one race"	"M"	"Male"	"M"	"2022"	"2022"	1136	1775814	64.0	60.3	67.7
+	"Census Region 4: West"	"CENS-R4"	"More than one race"	"M"	"Male"	"M"	"2023"	"2023"	1194	1800138	66.3	62.6	70.1
+	"Census Region 4: West"	"CENS-R4"	"More than one race"	"M"	"Male"	"M"	"2024 "	"2024"	1250	1848571	67.6	63.9	71.4
+"Total"	"Census Region 4: West"	"CENS-R4"	"More than one race"	"M"	"Male"	"M"			5823	8875621	65.6	63.9	67.3
+"Total"	"Census Region 4: West"	"CENS-R4"	"More than one race"	"M"					9755	17698879	55.1	54.0	56.2
+"Total"	"Census Region 4: West"	"CENS-R4"							674333	394977835	170.7	170.3	171.1
+"Total"									3459861	1669691308	207.2	207.0	207.4
+"---"
+"Dataset: Underlying Cause of Death, 2018-2024, Single Race"
+"Query Parameters:"
+"ICD-10 Codes: I00-I02 (Acute rheumatic fever); I05-I09 (Chronic rheumatic heart diseases); I11.0 (Hypertensive heart disease"
+"with (congestive) heart failure); I11.9 (Hypertensive heart disease without (congestive) heart failure); I13.0 (Hypertensive"
+"heart and renal disease with (congestive) heart failure); I13.1 (Hypertensive heart and renal disease with renal failure); I13.2"
+"(Hypertensive heart and renal disease with both (congestive) heart failure and renal failure); I13.9 (Hypertensive heart and"
+"renal disease, unspecified); I20-I25 (Ischaemic heart diseases); I26-I28 (Pulmonary heart disease and diseases of pulmonary"
+"circulation); I30-I51 (Other forms of heart disease)"
+"Year/Month: 2020; 2021; 2022; 2023; 2024"
+"Group By: Census Region; Single Race 6; Sex; Year"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd-expanded.html for more information."
+"---"
+"Query Date: Sep 16, 2026 1:24:51 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2024 on CDC WONDER Online Database, released in 2026. Data are from the Multiple Cause of Death Files,"
+"2018-2024, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10-expanded.html on Sep 16, 2026 1:24:51 PM"
+"---"
+Messages:
+"1. Rows with zero Deaths are hidden, but the Population values in those rows are included in the totals. Use Quick Options above"
+"to show zero rows."
+"2. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Assurance of Confidentiality."
+"2. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Confidence-Intervals."
+"3. The population figures for year 2024 are single-race estimates of the July 1 resident population, from the Vintage 2024"
+"postcensal series released by the Census Bureau on June 27, 2024. The 2024 series is based on the Modified Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of the blend"
+"of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data"
+"from the internal Census Edited File (CEF). The population figures for year 2023 are single-race estimates of the July 1"
+"resident population, from the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. The 2023 series is"
+"based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The"
+"Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic"
+"Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The population figures for years 2022 are"
+"single-race estimates of the July 1 resident population, from the Vintage 2022 postcensal series released by the Census Bureau"
+"on June 22, 2023. The 2022 series is based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1,"
+"2020 decennial population count. The Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates"
+"for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The"
+"population figures for years 2021 are single-race estimates of the July 1 resident population, based on the Blended Base"
+"produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021 postcensal"
+"series released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates of the"
+"July 1 resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census Bureau on"
+"July 27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from the"
+"Vintage 2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population"
+"figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based"
+"on April 2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Population Data."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Age"
+"Group."
+"5. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Connecticut-2022."
+"6. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
+"7. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#ICD-10 Changes."
